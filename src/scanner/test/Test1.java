@@ -1,4 +1,4 @@
-package casting.test;
+package scanner.test;
 
 import java.util.Scanner;
 
